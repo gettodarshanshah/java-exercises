@@ -1,2 +1,2 @@
 # java-exercises
-understanding java
+understanding java concepts.
